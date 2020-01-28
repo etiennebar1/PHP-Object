@@ -9,4 +9,5 @@ class Voiture
     public $dimension = [0, 0, 0];
     public $masse;
     public $vitesse = 0;
+
 }
